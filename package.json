@@ -1,0 +1,20 @@
+{
+  "name": "sandbox-nodejs-moz-dev-network",
+  "version": "1.0.0",
+  "description": "This is just a sandbox project that I am creating for following along Mozilla's Developer Network tutorial on NodeJS/Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrylabs/sandbox-nodejs-moz-dev-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrylabs/sandbox-nodejs-moz-dev-network/issues"
+  },
+  "homepage": "https://github.com/petrylabs/sandbox-nodejs-moz-dev-network#readme"
+}
