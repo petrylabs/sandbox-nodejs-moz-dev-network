@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/petrylabs/sandbox-nodejs-moz-dev-network/issues"
   },
-  "homepage": "https://github.com/petrylabs/sandbox-nodejs-moz-dev-network#readme"
+  "homepage": "https://github.com/petrylabs/sandbox-nodejs-moz-dev-network#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
